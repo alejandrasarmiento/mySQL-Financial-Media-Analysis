@@ -8,7 +8,7 @@ SQL project analyzing Q1 202x paid media performance. Includes KPI analysis acro
 
 ## 🗂️ About This Project
 
-This project analyzes **real paid media performance data** from a financial services client across multiple digital channels during Q1 2025 (January–March).
+This project analyzes **real paid media performance data** from a financial services client across multiple digital channels during Q1 202x (January–March).
 
 The data was imported from a live dashboard export into MySQL and queried to answer key business questions around spend efficiency, channel performance, and conversion KPIs.
 
